@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">List Prosesor Terbaik</string>
+    <string name="prosesor_name">Nama Prosesor</string>
+    <string name="Detail">Detail</string>
+    <string name="About">About</string>
+    <string name="spek">Spesifikasi</string>
+</resources>
